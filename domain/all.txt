@@ -54,7 +54,7 @@ bluehost.com:443#更多选择 | BlueHost
 www.speedtest.net:443#更多选择 | Ookla
 livescore.co.kr:443#更多选择 | LiveScore
 csgo.com:443#更多选择 | CSGO
-ikea.com:443#企业域名 | 宜家IKEA
+ikea.com:443#更多选择 | 宜家IKEA
 loreal.com:443#更多选择 | 欧莱雅
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
 1password.com:443#更多选择 | 1Password
