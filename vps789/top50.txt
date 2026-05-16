@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-17 06:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-17 07:13 | YouTube@真香定律
 cf.mubaiovo.top:443#cf.mubaiovo.top
 www.sloomb.com:443#www.sloomb.com
 www.giannidelprete.it:443#www.giannidelprete.it
@@ -6,7 +6,6 @@ cdn.2020111.xyz:443#cdn.2020111.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 www.cdzxdz.com:443#www.cdzxdz.com
-api.gzcrtw.com:443#api.gzcrtw.com
 cdn.204910.best:443#cdn.204910.best
 cloudflare.cnae.top:443#cloudflare.cnae.top
 www.vastnovel.com:443#www.vastnovel.com
@@ -14,12 +13,12 @@ www.vastnovel.com:443#www.vastnovel.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
 cf.553314.xyz:443#cf.553314.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
 mskcc.org:443#mskcc.org
 www.mfyx.cn:443#www.mfyx.cn
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 www.fastsoso.cn:443#www.fastsoso.cn
+cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -33,6 +32,7 @@ yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
 cf.duun.eu.cc:443#cf.duun.eu.cc
 zeas.top:443#zeas.top
+api.gzcrtw.com:443#api.gzcrtw.com
 cf.godns.cc:443#cf.godns.cc
 cdns.doon.eu.org:443#cdns.doon.eu.org
 dnew.cc:443#dnew.cc
