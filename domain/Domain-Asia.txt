@@ -7,7 +7,7 @@ myporscheclub.com:443#中国保时捷Club
 jebsen.com:443#中国香港捷成
 www.aeon.com.hk:443#中国香港永旺
 tomleemusic.com.hk:443#中国香港通利
-www.hthkh.com:443#香港和记电讯
+www.hthkh.com:443#中国香港和记电讯
 www.caritas.org.hk:443#中国香港明爱
 advantech.com:443#中国台湾研华
 leyun.cloud:443#中国台湾乐云
