@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-22 07:42 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-22 08:13 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -14,7 +14,7 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-ys2046.cv:443#ys2046.cv
+cf.090227.xyz:443#cf.090227.xyz
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
@@ -25,11 +25,11 @@ cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 yyurl.cc:443#yyurl.cc
 liantong.19931101.xyz:443#liantong.19931101.xyz
-play.mc.js.cool:443#play.mc.js.cool
 saas.sin.fan:443#saas.sin.fan
 ct.877774.xyz:443#ct.877774.xyz
 www.mc.js.cool:443#www.mc.js.cool
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
+ys2046.cv:443#ys2046.cv
 cf.553314.xyz:443#cf.553314.xyz
 openai.com:443#openai.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
@@ -37,7 +37,6 @@ eii.at:443#eii.at
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
@@ -66,6 +65,7 @@ dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz
 www.nexusmods.com:443#www.nexusmods.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+play.mc.js.cool:443#play.mc.js.cool
 cu.877774.xyz:443#cu.877774.xyz
 cdn.204910.best:443#cdn.204910.best
 store.ubi.com:443#store.ubi.com
@@ -82,15 +82,16 @@ cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
+ct.721660.xyz:443#ct.721660.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
 cloudflare.cnae.top:443#cloudflare.cnae.top
+bbs.alipansou.com:443#bbs.alipansou.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.sofi.com:443#www.sofi.com
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
-cf.090227.xyz:443#cf.090227.xyz
 qualitytraining.zeiss.com:443#qualitytraining.zeiss.com
 www.5h.com:443#www.5h.com
 cf.v8.longsays.com:443#cf.v8.longsays.com
@@ -98,5 +99,4 @@ a.lma.de5.net:443#a.lma.de5.net
 isp.254301.xyz:443#isp.254301.xyz
 cf.godns.cc:443#cf.godns.cc
 101yaoye.com:443#101yaoye.com
-markmonitor.com:443#markmonitor.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
