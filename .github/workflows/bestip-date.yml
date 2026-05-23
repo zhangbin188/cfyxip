@@ -17,8 +17,7 @@ jobs:
 
       - name: 生成文件更新时间 JSON
         run: |
-          # 1. 创建排除列表文件 (每行一个规则)
-          # ^ 表示匹配路径开头，$ 表示匹配路径结尾
+          # 1. 创建排除列表文件 (排除具体的目录和文件)
           cat <<EOF > exclude_list.txt
           ^tiancheng/old/
           ^tiancheng2/old/
@@ -36,12 +35,22 @@ jobs:
           OUTPUT_FILE="bestip-date.json"
           echo "[" > $OUTPUT_FILE
           
-          # 3. 循环遍历文件并生成 JSON
-          # -f 选项指定从 exclude_list.txt 读取过滤规则
+          # 3. 循环遍历文件
           first=true
-          git ls-tree -r --name-only HEAD | grep -vE "^(\.github|\.git)" | grep -Evf exclude_list.txt | while read filename; do
+          git ls-tree -r --name-only HEAD | \
+            grep -vF ".github/" | \
+            grep -vF ".git/" | \
+            grep -vF ".yml" | \
+            grep -Evf exclude_list.txt | \
+            while read filename; do
+            
             # 获取最近一次提交时间 (北京时间)
             last_date=$(TZ='Asia/Shanghai' git log -1 --format="%cI" -- "$filename")
+            
+            # 如果没查到时间，跳过本次循环，防止产生空记录
+            if [ -z "$last_date" ]; then
+              continue
+            fi
             
             # 格式化 JSON
             if [ "$first" = true ]; then
@@ -65,7 +74,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 检查文件是否有变动
           git add bestip-date.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: update bestip-date.json"
