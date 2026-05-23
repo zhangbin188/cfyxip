@@ -20,7 +20,6 @@ jobs:
           # 1. 创建排除列表文件 (每行一个规则)
           # ^ 表示匹配路径开头，$ 表示匹配路径结尾
           cat <<EOF > exclude_list.txt
-          ^\.github/workflows/
           ^tiancheng/old/
           ^tiancheng2/old/
           ^report/
@@ -40,7 +39,7 @@ jobs:
           # 3. 循环遍历文件并生成 JSON
           # -f 选项指定从 exclude_list.txt 读取过滤规则
           first=true
-          git ls-tree -r --name-only HEAD | grep -Evf exclude_list.txt | while read filename; do
+          git ls-tree -r --name-only HEAD | grep -vE "^(\.github|\.git)" | grep -Evf exclude_list.txt | while read filename; do
             # 获取最近一次提交时间 (北京时间)
             last_date=$(TZ='Asia/Shanghai' git log -1 --format="%cI" -- "$filename")
             
