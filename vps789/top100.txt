@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 07:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 08:14 | YouTube@真香定律
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
@@ -17,9 +18,9 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 i.111666.best:443#i.111666.best
 cdn.204910.best:443#cdn.204910.best
 store.epicgames.com:443#store.epicgames.com
+cf.godns.cc:443#cf.godns.cc
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-cdn.2158.cc:443#cdn.2158.cc
 www.nexusmods.com:443#www.nexusmods.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -28,14 +29,13 @@ cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.godns.cc:443#cf.godns.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
 bbs.alipansou.com:443#bbs.alipansou.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+cdn.2158.cc:443#cdn.2158.cc
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 baka.fun:443#baka.fun
