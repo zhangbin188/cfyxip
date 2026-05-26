@@ -1,19 +1,18 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-27 05:41 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-27 06:11 | YouTube@真香定律
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
 baka.fun:443#baka.fun
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 zeas.top:443#zeas.top
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.godns.cc:443#cf.godns.cc
 ys2046.cv:443#ys2046.cv
 www.epicgames.com:443#www.epicgames.com
+yidong.19931101.xyz:443#yidong.19931101.xyz
 cf.92555.xyz:443#cf.92555.xyz
 store.ubi.com:443#store.ubi.com
 www.jimdo.com:443#www.jimdo.com
@@ -36,17 +35,16 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-yidong.19931101.xyz:443#yidong.19931101.xyz
 yyurl.cc:443#yyurl.cc
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.204910.best:443#cdn.204910.best
 networksolutions.com:443#networksolutions.com
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 eii.at:443#eii.at
 visa.com:443#visa.com
 saas.sin.fan:443#saas.sin.fan
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 racerseseries.sky.com:443#racerseseries.sky.com
 dnew.cc:443#dnew.cc
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
@@ -75,6 +73,7 @@ cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.akasantech.com:443#www.akasantech.com
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.mc.js.cool:443#www.mc.js.cool
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -82,6 +81,7 @@ hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+www.cdzxdz.com:443#www.cdzxdz.com
 www.mfyx.cn:443#www.mfyx.cn
 www.mlkj888.com:443#www.mlkj888.com
 y508.com:443#y508.com
