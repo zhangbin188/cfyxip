@@ -61,7 +61,7 @@ jobs:
               
               # 核心改动：截取前 N 行 -> 处理成 域名:443#域名 -> 追加
               # sed 解释: 's/.*/&:443#&/' 意思是在每行内容(&)后加上 :443# 再加上原内容(&)
-              head -n "$count" domains.txt | sed 's/.*/&:443#VPS789优选域名 | &/' >> "$file"
+              head -n "$count" domains.txt | sed 's/.*/&:443#VPS789优选 | &/' >> "$file"
               
               # 追加尾行
               echo "$foot" >> "$file"
