@@ -21,7 +21,7 @@ metacubex/metacubexd|1.249.0
 mihomo-party-org/clash-party|1.9.5
 shadowsocks/shadowsocks-rust|1.24.0
 v2fly/v2ray-core|5.49.0
-vernesong/OpenClash|0.47.088
+vernesong/OpenClash|0.47.096
 xiaobaigroup/ClashBox|1.7.4
 yanue/v2rayu|4.2.8
 zero-peak/ZeroOmega|3.5.0
