@@ -1,4 +1,4 @@
-saas.sin.fan:443#VPS789优选域名 TOP50 | 06-02 07:42 | BestCF.pages.dev
+saas.sin.fan:443#VPS789优选域名 TOP50 | 06-02 08:12 | BestCF.pages.dev
 www.shopify.com:443#VPS789优选 | www.shopify.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
@@ -9,7 +9,6 @@ yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 baka.fun:443#VPS789优选 | baka.fun
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 openai.com:443#VPS789优选 | openai.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
@@ -44,8 +43,9 @@ www.visa.com:443#VPS789优选 | www.visa.com
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
-api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
 www.trumpinternationalrealty.com:443#VPS789优选 | www.trumpinternationalrealty.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com

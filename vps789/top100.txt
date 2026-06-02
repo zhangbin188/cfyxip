@@ -1,4 +1,4 @@
-saas.sin.fan:443#VPS789优选域名 TOP100 | 06-02 07:42 | BestCF.pages.dev
+saas.sin.fan:443#VPS789优选域名 TOP100 | 06-02 08:12 | BestCF.pages.dev
 www.shopify.com:443#VPS789优选 | www.shopify.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
@@ -9,7 +9,6 @@ yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 baka.fun:443#VPS789优选 | baka.fun
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 openai.com:443#VPS789优选 | openai.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
@@ -44,13 +43,13 @@ www.visa.com:443#VPS789优选 | www.visa.com
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
-api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
 www.trumpinternationalrealty.com:443#VPS789优选 | www.trumpinternationalrealty.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 visa.com:443#VPS789优选 | visa.com
-www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 chrono24.com:443#VPS789优选 | chrono24.com
 cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
@@ -65,7 +64,6 @@ www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
-cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
@@ -75,10 +73,12 @@ store.ubi.com:443#VPS789优选 | store.ubi.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
+cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#VPS789优选 | yg7.ygkkk.dpdns.org
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 laitemi.com:443#VPS789优选 | laitemi.com
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
