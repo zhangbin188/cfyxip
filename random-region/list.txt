@@ -17,7 +17,6 @@ BE|11
 HK|74
 FI|835
 IS|3
-CN|1
 CH|100
 DO|1
 CL|5
@@ -45,7 +44,6 @@ BY|4
 BG|39
 UA|5
 TH|13
-Unknown|1
 TR|50
 AR|1
 MK|5
