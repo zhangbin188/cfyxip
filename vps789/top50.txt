@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-05 12:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-05 12:44 | BestCF.pages.dev
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
@@ -20,7 +20,6 @@ cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 www.cdzxdz.com:443#VPS789优选 | www.cdzxdz.com
-zeas.top:443#VPS789优选 | zeas.top
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
@@ -44,6 +43,7 @@ yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 www.swowd.com:443#VPS789优选 | www.swowd.com
+zeas.top:443#VPS789优选 | zeas.top
 laitemi.com:443#VPS789优选 | laitemi.com
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
