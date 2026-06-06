@@ -1,6 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-06 13:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-06 14:12 | BestCF.pages.dev
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
@@ -11,6 +10,7 @@ cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
+uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 yg7.ygkkk.dpdns.org:443#VPS789优选 | yg7.ygkkk.dpdns.org
